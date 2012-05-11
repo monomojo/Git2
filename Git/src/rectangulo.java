@@ -17,7 +17,7 @@ public class rectangulo{
 		}else{
 			base=b;
 			altura=a;
-			System.out.println("Mola");
+			System.out.println("Mola mazo");
 		}
 		//controlar la validacion aqui
 	}
